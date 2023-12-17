@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Onboarding Splash Screen</string>
+    <string name="splash">Welcome!</string>
+    <string name="skipButton">Welcome!</string>
+    <string name="nextButton">Welcome!</string>
+    <string name="backButton">Welcome!</string>
+    <string name="slideTitle">Tourista Tech</string>
+    <string name="slideDesc">"Explore Beyond Boundaries, Your Journey, Our Expertise."</string>
+</resources>
